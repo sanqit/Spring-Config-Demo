@@ -1,5 +1,3 @@
-Value1: some-val34
-Value2: another-ssval
 ServiceOptions:
-  Value1: some-val134
-  Value2: another-val2
+  Value1: two
+  Value2: three
