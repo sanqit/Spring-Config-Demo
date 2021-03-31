@@ -1,2 +1,5 @@
 Value1: some-val34
 Value2: another-ssval
+ServiceOptions:
+  Value1: some-val1
+  Value2: another-val2
